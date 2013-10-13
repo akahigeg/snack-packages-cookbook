@@ -1,2 +1,2 @@
-default[:snack_packages][:install] = []
-default[:snack_packages][:remove] = []
+node.default[:snack_packages][:install] = []
+node.default[:snack_packages][:remove] = []
